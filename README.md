@@ -1,8 +1,17 @@
-# Introduction to Git 
+# GIT and GITHub
+
+## Git is a version control system that allows developers to manage changes to their code over time - it was created by Linus Torvalds.
+
+#### Git enables developers to:
+- Track changes to their code
+- Collaborate with other developers on the same code
+- Maintain history of all changes to the code
+
+
 
 ![image](https://user-images.githubusercontent.com/129324316/230045706-212e7cf2-dcfd-49c8-8fbf-b87b54ab3442.png)
 
-## Git is a version control system that allows developers to manage changes to their code over time - it was created by Linus Torvalds as an oopen source project and remains as one of the most popular version control systems in use today.
+
 
 ## Using Git, developers can track changes to their code, collaborate with other developers on the same code, and maintain history of all changes to the code, even going back to previous versions. Git allows develops to create "branches" of code, which are seperate versions of a codebase that can be worked on independently and then "merged" together when changes are complete. 
 
